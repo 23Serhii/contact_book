@@ -56,4 +56,11 @@ Key Features
     Run the application using Flutter.
 
 # Screenshots
+[!Screenshot](/screens_for_README/cont_book_main_screen.png)
 [!Screenshot](/screens_for_README/cont_book_choise_screen.png)
+[!Screenshot](/screens_for_README/cont_book_camera_screen.png)
+[!Screenshot](/screens_for_README/cont_book_editing_screen.png)
+[!Screenshot](/screens_for_README/cont_book_comfirmation_screen.png)
+[!Screenshot](/screens_for_README/cont_book_sort_screen.png)
+[!Screenshot](/screens_for_README/cont_book_validation_while_editing_screen.png)
+
